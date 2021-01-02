@@ -1,5 +1,5 @@
 #Attempt #2 at snake, half guided, half self.
-#sdfghjklkljhggfghgjk
+#2
 import pygame
 import time
 import random

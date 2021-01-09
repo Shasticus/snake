@@ -1,5 +1,6 @@
 #Attempt #2 at snake, half guided, half self.
-#3546557
+#The master branch.
+
 import pygame
 import time
 import random

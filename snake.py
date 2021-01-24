@@ -1,5 +1,5 @@
 #Attempt #2 at snake, half guided, half self.
-#The master branch.
+#The master branch. Big money changes.
 
 import pygame
 import time

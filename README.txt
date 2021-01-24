@@ -1,1 +1,1 @@
-This is a read me.
+This is my attempt at a game of Snake and potentially others. The purpose is experimenting with Pygame, CI, branches, and various other aspects of the development cycle beyond simply scripting and coding.

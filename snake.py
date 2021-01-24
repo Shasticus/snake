@@ -1,5 +1,4 @@
-#Attempt #2 at snake, half guided, half self.
-#The master branch. Big money changes.
+#Attempt #2 at snake, 1/3 guided, 2/3 self.
 
 import pygame
 import time
@@ -7,7 +6,7 @@ import random
 
 pygame.init()
 
-#colors!
+#colors! Some unused but there anyway.
 white = (255, 255, 255)
 black = (0, 0, 0)
 red = (255, 0, 0)
